@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c1ea92f-7fe7-423f-a2ff-565014b47c10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/LongestConsecutiveSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/TopKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/chocolate_distribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/common_elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/cyclically_rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/duplicate_no.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/get_min_diff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/get_min_max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/groupAna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/kadane_algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/merge_sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/reverse_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/sort012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/union.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/Arrays/validAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/ClimbStairsMinMoves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/ClimbStairsVarJumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/HouseRobberTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/MaxSumNonAdjacent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/MinCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/MinCostClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/DP/Tribonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/SlidingWindow/FirstNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/SlidingWindow/MaxSumSubarr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/SlidingWindow/SlidingWindowMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/backtracking/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/AllSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/DisplayArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/FirstLastIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/MaxOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/PowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/PowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/PrintDecreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/StairsPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/UniqueMazePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/recursion/climbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/searchingSorting/First_last_pos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/searchingSorting/PeakIndexMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/searchingSorting/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/stackQueues/validParanthese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kunaaal/twoPointers/countArithmeticTriplets.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CtwHRCZJv70gBQzQ0hVpxLOEYh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c1ea92f-7fe7-423f-a2ff-565014b47c10" name="Changes" comment="" />
+      <created>1659635101059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659635101059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/kunaaal/Arrays/TwoSum.java</url>
+          <line>20</line>
+          <properties class="com.kunaaal.Arrays.TwoSum" method="twoSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/kunaaal/SlidingWindow/MaxSumSubarr.java</url>
+          <line>10</line>
+          <properties class="com.kunaaal.SlidingWindow.MaxSumSubarr" method="maxSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dsa$MaxSumSubarr.ic" NAME="MaxSumSubarr Coverage Results" MODIFIED="1661063120728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kunaaal.SlidingWindow.*</FILTER>
+    </SUITE>
+  </component>
+</project>
